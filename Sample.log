@@ -1,0 +1,15 @@
+2026-06-03 08:14:22 INFO User alice logged in successfully
+2026-06-03 08:15:01 INFO User bob logged in successfully
+2026-06-03 08:16:45 WARNING Disk usage at 82 percent
+2026-06-03 08:17:12 ERROR Failed login attempt from 192.168.1.50
+2026-06-03 08:17:15 ERROR Failed login attempt from 192.168.1.50
+2026-06-03 08:17:19 ERROR Failed login attempt from 192.168.1.50
+2026-06-03 08:18:03 INFO User alice logged out
+2026-06-03 08:19:55 WARNING Memory usage at 90 percent
+2026-06-03 08:20:11 ERROR Database connection timeout
+2026-06-03 08:21:30 INFO Backup completed successfully
+2026-06-03 08:22:47 ERROR Failed login attempt from 10.0.0.99
+2026-06-03 08:23:05 WARNING CPU temperature high
+2026-06-03 08:24:18 INFO User charlie logged in successfully
+2026-06-03 08:25:42 ERROR Disk write failure on /dev/sda1
+2026-06-03 08:26:09 INFO Scheduled task started
